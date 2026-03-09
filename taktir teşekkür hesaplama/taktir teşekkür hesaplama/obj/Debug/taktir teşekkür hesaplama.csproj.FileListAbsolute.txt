@@ -1,0 +1,10 @@
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\bin\Debug\taktir teşekkür hesaplama.exe.config
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\bin\Debug\taktir teşekkür hesaplama.exe
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\bin\Debug\taktir teşekkür hesaplama.pdb
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\obj\Debug\taktir teşekkür hesaplama.csproj.AssemblyReference.cache
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\obj\Debug\taktir_teşekkür_hesaplama.Form1.resources
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\obj\Debug\taktir_teşekkür_hesaplama.Properties.Resources.resources
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\obj\Debug\taktir teşekkür hesaplama.csproj.GenerateResource.cache
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\obj\Debug\taktir teşekkür hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\obj\Debug\taktir teşekkür hesaplama.exe
+C:\Users\ramak\source\repos\taktir teşekkür hesaplama\taktir teşekkür hesaplama\obj\Debug\taktir teşekkür hesaplama.pdb

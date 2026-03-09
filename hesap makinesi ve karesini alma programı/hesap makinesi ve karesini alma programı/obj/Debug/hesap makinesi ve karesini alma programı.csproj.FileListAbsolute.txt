@@ -1,0 +1,10 @@
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\bin\Debug\hesap makinesi ve karesini alma programı.exe.config
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\bin\Debug\hesap makinesi ve karesini alma programı.exe
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\bin\Debug\hesap makinesi ve karesini alma programı.pdb
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\obj\Debug\hesap makinesi ve karesini alma programı.csproj.AssemblyReference.cache
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\obj\Debug\hesap_makinesi_ve_karesini_alma_programı.Form1.resources
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\obj\Debug\hesap_makinesi_ve_karesini_alma_programı.Properties.Resources.resources
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\obj\Debug\hesap makinesi ve karesini alma programı.csproj.GenerateResource.cache
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\obj\Debug\hesap makinesi ve karesini alma programı.csproj.CoreCompileInputs.cache
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\obj\Debug\hesap makinesi ve karesini alma programı.exe
+C:\Users\ramak\source\repos\hesap makinesi ve karesini alma programı\hesap makinesi ve karesini alma programı\obj\Debug\hesap makinesi ve karesini alma programı.pdb

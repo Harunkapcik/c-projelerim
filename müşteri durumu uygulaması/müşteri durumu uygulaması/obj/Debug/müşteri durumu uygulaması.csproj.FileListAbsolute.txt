@@ -1,0 +1,10 @@
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\bin\Debug\müşteri durumu uygulaması.exe.config
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\bin\Debug\müşteri durumu uygulaması.exe
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\bin\Debug\müşteri durumu uygulaması.pdb
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\obj\Debug\müşteri durumu uygulaması.csproj.AssemblyReference.cache
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\obj\Debug\müşteri_durumu_uygulaması.Form1.resources
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\obj\Debug\müşteri_durumu_uygulaması.Properties.Resources.resources
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\obj\Debug\müşteri durumu uygulaması.csproj.GenerateResource.cache
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\obj\Debug\müşteri durumu uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\obj\Debug\müşteri durumu uygulaması.exe
+C:\Users\ramak\source\repos\müşteri durumu uygulaması\müşteri durumu uygulaması\obj\Debug\müşteri durumu uygulaması.pdb
