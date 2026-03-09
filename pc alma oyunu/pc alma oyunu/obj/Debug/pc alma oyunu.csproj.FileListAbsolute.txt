@@ -1,0 +1,13 @@
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\bin\Debug\pc alma oyunu.exe.config
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\bin\Debug\pc alma oyunu.exe
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\bin\Debug\pc alma oyunu.pdb
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc alma oyunu.csproj.AssemblyReference.cache
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc_alma_oyunu.Form1.resources
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc_alma_oyunu.Form2.resources
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc_alma_oyunu.Properties.Resources.resources
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc alma oyunu.csproj.GenerateResource.cache
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc alma oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc alma oyunu.exe
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc alma oyunu.pdb
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc_alma_oyunu.Form3.resources
+C:\Users\ramak\source\repos\pc alma oyunu\pc alma oyunu\obj\Debug\pc_alma_oyunu.formVulcan.resources
